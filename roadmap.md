@@ -1,0 +1,4 @@
+- [x] Show server-side credential availability in Settings without exposing secret values.
+- [x] Use demo mode by default; route explicit live recall and retain through server functions with fallback.
+- [x] Verify health, toggle, search, impact analysis, and signed-out memory-save fallback.
+- [ ] Verify authenticated live Hindsight retain/readback (blocked: this project has no signed-up account to test with).
